@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Anurag-1219/RECURSION/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Anurag-1219/RECURSION/tree/master/0049-group-anagrams) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anurag-1219/RECURSION/tree/master/1248-count-number-of-nice-subarrays) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Anurag-1219/RECURSION/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Anurag-1219/RECURSION/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Anurag-1219/RECURSION/tree/master/0049-group-anagrams) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anurag-1219/RECURSION/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
