@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anurag-1219/RECURSION/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Anurag-1219/RECURSION/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anurag-1219/RECURSION/tree/master/0058-length-of-last-word) |
 ## Sorting
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anurag-1219/RECURSION/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anurag-1219/RECURSION/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anurag-1219/RECURSION/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
