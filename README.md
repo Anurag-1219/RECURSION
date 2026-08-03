@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Anurag-1219/RECURSION/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Anurag-1219/RECURSION/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Anurag-1219/RECURSION/tree/master/0169-majority-element) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anurag-1219/RECURSION/tree/master/1248-count-number-of-nice-subarrays) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Anurag-1219/RECURSION/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Queue
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Anurag-1219/RECURSION/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Anurag-1219/RECURSION/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Anurag-1219/RECURSION/tree/master/0169-majority-element) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anurag-1219/RECURSION/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anurag-1219/RECURSION/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Anurag-1219/RECURSION/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -62,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anurag-1219/RECURSION/tree/master/0005-longest-palindromic-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anurag-1219/RECURSION/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anurag-1219/RECURSION/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anurag-1219/RECURSION/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
