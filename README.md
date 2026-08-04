@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anurag-1219/RECURSION/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Anurag-1219/RECURSION/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anurag-1219/RECURSION/tree/master/0058-length-of-last-word) |
+| [0606-construct-string-from-binary-tree](https://github.com/Anurag-1219/RECURSION/tree/master/0606-construct-string-from-binary-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anurag-1219/RECURSION/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/Anurag-1219/RECURSION/tree/master/0606-construct-string-from-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/Anurag-1219/RECURSION/tree/master/0606-construct-string-from-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/Anurag-1219/RECURSION/tree/master/0606-construct-string-from-binary-tree) |
 <!---LeetCode Topics End-->
