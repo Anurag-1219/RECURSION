@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anurag-1219/RECURSION/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Anurag-1219/RECURSION/tree/master/0241-different-ways-to-add-parentheses) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anurag-1219/RECURSION/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anurag-1219/RECURSION/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Anurag-1219/RECURSION/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anurag-1219/RECURSION/tree/master/0058-length-of-last-word) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Anurag-1219/RECURSION/tree/master/0241-different-ways-to-add-parentheses) |
 | [0606-construct-string-from-binary-tree](https://github.com/Anurag-1219/RECURSION/tree/master/0606-construct-string-from-binary-tree) |
 ## Sorting
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anurag-1219/RECURSION/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Anurag-1219/RECURSION/tree/master/0241-different-ways-to-add-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anurag-1219/RECURSION/tree/master/0005-longest-palindromic-substring) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Anurag-1219/RECURSION/tree/master/0241-different-ways-to-add-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0606-construct-string-from-binary-tree](https://github.com/Anurag-1219/RECURSION/tree/master/0606-construct-string-from-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Anurag-1219/RECURSION/tree/master/0241-different-ways-to-add-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Anurag-1219/RECURSION/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
