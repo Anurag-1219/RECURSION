@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Anurag-1219/RECURSION/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Anurag-1219/RECURSION/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Anurag-1219/RECURSION/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/Anurag-1219/RECURSION/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag-1219/RECURSION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anurag-1219/RECURSION/tree/master/1248-count-number-of-nice-subarrays) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anurag-1219/RECURSION/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Anurag-1219/RECURSION/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anurag-1219/RECURSION/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Anurag-1219/RECURSION/tree/master/0079-word-search) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anurag-1219/RECURSION/tree/master/0241-different-ways-to-add-parentheses) |
 | [0606-construct-string-from-binary-tree](https://github.com/Anurag-1219/RECURSION/tree/master/0606-construct-string-from-binary-tree) |
 ## Sorting
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Anurag-1219/RECURSION/tree/master/0079-word-search) |
 | [0386-lexicographical-numbers](https://github.com/Anurag-1219/RECURSION/tree/master/0386-lexicographical-numbers) |
 | [0606-construct-string-from-binary-tree](https://github.com/Anurag-1219/RECURSION/tree/master/0606-construct-string-from-binary-tree) |
 ## Binary Tree
@@ -122,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag-1219/RECURSION/tree/master/0350-intersection-of-two-arrays-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Anurag-1219/RECURSION/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Anurag-1219/RECURSION/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
