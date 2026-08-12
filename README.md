@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Anurag-1219/RECURSION/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Anurag-1219/RECURSION/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/Anurag-1219/RECURSION/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Anurag-1219/RECURSION/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/Anurag-1219/RECURSION/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag-1219/RECURSION/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -128,9 +129,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Anurag-1219/RECURSION/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Anurag-1219/RECURSION/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Anurag-1219/RECURSION/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Anurag-1219/RECURSION/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
