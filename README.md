@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Anurag-1219/RECURSION/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/Anurag-1219/RECURSION/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag-1219/RECURSION/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anurag-1219/RECURSION/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anurag-1219/RECURSION/tree/master/1248-count-number-of-nice-subarrays) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Anurag-1219/RECURSION/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anurag-1219/RECURSION/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Anurag-1219/RECURSION/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anurag-1219/RECURSION/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anurag-1219/RECURSION/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Anurag-1219/RECURSION/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Anurag-1219/RECURSION/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anurag-1219/RECURSION/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag-1219/RECURSION/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anurag-1219/RECURSION/tree/master/1004-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
 | ------- |
