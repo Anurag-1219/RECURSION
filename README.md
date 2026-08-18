@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Anurag-1219/RECURSION/tree/master/0241-different-ways-to-add-parentheses) |
 | [0606-construct-string-from-binary-tree](https://github.com/Anurag-1219/RECURSION/tree/master/0606-construct-string-from-binary-tree) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anurag-1219/RECURSION/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3794-reverse-string-prefix](https://github.com/Anurag-1219/RECURSION/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Anurag-1219/RECURSION/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag-1219/RECURSION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anurag-1219/RECURSION/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3794-reverse-string-prefix](https://github.com/Anurag-1219/RECURSION/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
