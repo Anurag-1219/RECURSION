@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Anurag-1219/RECURSION/tree/master/1248-count-number-of-nice-subarrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anurag-1219/RECURSION/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Anurag-1219/RECURSION/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2974-minimum-number-game](https://github.com/Anurag-1219/RECURSION/tree/master/2974-minimum-number-game) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anurag-1219/RECURSION/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Queue
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Anurag-1219/RECURSION/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Anurag-1219/RECURSION/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag-1219/RECURSION/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2974-minimum-number-game](https://github.com/Anurag-1219/RECURSION/tree/master/2974-minimum-number-game) |
 ## Linked List
 |  |
 | ------- |
@@ -179,8 +181,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anurag-1219/RECURSION/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2974-minimum-number-game](https://github.com/Anurag-1219/RECURSION/tree/master/2974-minimum-number-game) |
 ## Brainteaser
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Anurag-1219/RECURSION/tree/master/2396-strictly-palindromic-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Anurag-1219/RECURSION/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
