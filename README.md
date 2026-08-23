@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anurag-1219/RECURSION/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Anurag-1219/RECURSION/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2974-minimum-number-game](https://github.com/Anurag-1219/RECURSION/tree/master/2974-minimum-number-game) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anurag-1219/RECURSION/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anurag-1219/RECURSION/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Queue
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Anurag-1219/RECURSION/tree/master/0241-different-ways-to-add-parentheses) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anurag-1219/RECURSION/tree/master/1248-count-number-of-nice-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/Anurag-1219/RECURSION/tree/master/2396-strictly-palindromic-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anurag-1219/RECURSION/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
