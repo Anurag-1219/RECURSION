@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Anurag-1219/RECURSION/tree/master/2974-minimum-number-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anurag-1219/RECURSION/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anurag-1219/RECURSION/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Anurag-1219/RECURSION/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Queue
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Anurag-1219/RECURSION/tree/master/0079-word-search) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Anurag-1219/RECURSION/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Anurag-1219/RECURSION/tree/master/2974-minimum-number-game) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Anurag-1219/RECURSION/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
