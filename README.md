@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Anurag-1219/RECURSION/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2974-minimum-number-game](https://github.com/Anurag-1219/RECURSION/tree/master/2974-minimum-number-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anurag-1219/RECURSION/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/Anurag-1219/RECURSION/tree/master/3668-restore-finishing-order) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anurag-1219/RECURSION/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Anurag-1219/RECURSION/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Queue
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag-1219/RECURSION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anurag-1219/RECURSION/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anurag-1219/RECURSION/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3668-restore-finishing-order](https://github.com/Anurag-1219/RECURSION/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
