@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anurag-1219/RECURSION/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Anurag-1219/RECURSION/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Anurag-1219/RECURSION/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anurag-1219/RECURSION/tree/master/0241-different-ways-to-add-parentheses) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anurag-1219/RECURSION/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Anurag-1219/RECURSION/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anurag-1219/RECURSION/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Anurag-1219/RECURSION/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Anurag-1219/RECURSION/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anurag-1219/RECURSION/tree/master/0241-different-ways-to-add-parentheses) |
 | [3524-find-x-value-of-array-i](https://github.com/Anurag-1219/RECURSION/tree/master/3524-find-x-value-of-array-i) |
 ## Divide and Conquer
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anurag-1219/RECURSION/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anurag-1219/RECURSION/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bracket Sequences
 |  |
