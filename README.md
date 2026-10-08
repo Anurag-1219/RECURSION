@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Anurag-1219/RECURSION/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Anurag-1219/RECURSION/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2396-strictly-palindromic-number](https://github.com/Anurag-1219/RECURSION/tree/master/2396-strictly-palindromic-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Anurag-1219/RECURSION/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anurag-1219/RECURSION/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3524-find-x-value-of-array-i](https://github.com/Anurag-1219/RECURSION/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/Anurag-1219/RECURSION/tree/master/3870-count-commas-in-range) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Anurag-1219/RECURSION/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anurag-1219/RECURSION/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Anurag-1219/RECURSION/tree/master/0509-fibonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Anurag-1219/RECURSION/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Anurag-1219/RECURSION/tree/master/0078-subsets) |
 | [0476-number-complement](https://github.com/Anurag-1219/RECURSION/tree/master/0476-number-complement) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Anurag-1219/RECURSION/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anurag-1219/RECURSION/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String Matching
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Anurag-1219/RECURSION/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anurag-1219/RECURSION/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/Anurag-1219/RECURSION/tree/master/2974-minimum-number-game) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Anurag-1219/RECURSION/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
 |  |
 | ------- |
