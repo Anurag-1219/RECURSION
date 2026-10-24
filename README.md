@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Anurag-1219/RECURSION/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Anurag-1219/RECURSION/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2396-strictly-palindromic-number](https://github.com/Anurag-1219/RECURSION/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/Anurag-1219/RECURSION/tree/master/2409-count-days-spent-together) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Anurag-1219/RECURSION/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anurag-1219/RECURSION/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3524-find-x-value-of-array-i](https://github.com/Anurag-1219/RECURSION/tree/master/3524-find-x-value-of-array-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Anurag-1219/RECURSION/tree/master/0606-construct-string-from-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Anurag-1219/RECURSION/tree/master/0678-valid-parenthesis-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anurag-1219/RECURSION/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2409-count-days-spent-together](https://github.com/Anurag-1219/RECURSION/tree/master/2409-count-days-spent-together) |
 | [3794-reverse-string-prefix](https://github.com/Anurag-1219/RECURSION/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
